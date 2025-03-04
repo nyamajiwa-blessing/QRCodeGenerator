@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf916713-0925-4d00-ae26-31892c6159c1" name="Changes" comment="Project setup. Added Maven dependencies.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/grey/converter/qrcodegenerator/QRCodeGeneratorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/grey/converter/qrcodegenerator/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/grey/converter/qrcodegenerator/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf916713-0925-4d00-ae26-31892c6159c1" name="Changes" comment="Change the use of javafx.embed.swing.SwingFXUtils" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,11 +87,20 @@
       <option name="project" value="LOCAL" />
       <updated>1741099739967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change the use of javafx.embed.swing.SwingFXUtils">
+      <option name="closed" value="true" />
+      <created>1741106138645</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741106138645</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project setup. Added Maven dependencies." />
-    <option name="LAST_COMMIT_MESSAGE" value="Project setup. Added Maven dependencies." />
+    <MESSAGE value="Change the use of javafx.embed.swing.SwingFXUtils" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change the use of javafx.embed.swing.SwingFXUtils" />
   </component>
 </project>
